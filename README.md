@@ -1,5 +1,6 @@
 ### Hi there 👋
-![name](https://img.shields.io/badge/name-Zixu_Wang-blue)
+[![name](https://img.shields.io/badge/name-Zixu_Wang-blue)](https://shields.io)
+[![website](https://img.shields.io/badge/website-hw311.me-green)](https://hw311.me)
 
 <!--
 **zixu-w/zixu-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
