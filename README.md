@@ -1,4 +1,4 @@
-### Hi there 👋
+## Project Me :wink:
 [![name](https://img.shields.io/badge/name-Zixu_Wang-blue)](https://github.com/zixu-w)
 [![build](https://img.shields.io/badge/build-in%20progress-yellowgreen)](https://github.com/zixu-w)
 [![languages](https://img.shields.io/badge/languages-C%2B%2B%20%7C%20Python%20%7C%20Haskell-lightgrey)](https://github.com/zixu-w)
